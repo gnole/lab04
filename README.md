@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/github/gnole/lab04.svg?branch=master)](https://travis-ci.org/github/gnole/lab04)
+[![Build Status](https://travis-ci.org/gnole/lab04.svg?branch=master)](https://travis-ci.org/gnole/lab04)
 
 ## Laboratory work IV
 
@@ -101,7 +101,7 @@ Hooray, .travis.yml looks valid :)
 Вставка значков с Build Status для `travis-ci.org`
 ```sh
 
-$ ex -sc '2i|[![Build Status](https://travis-ci.org/github/gnole/lab04.svg?branch=master)](https://travis-ci.org/github/gnole/lab04)' -cx README.md
+$ ex -sc '2i|[![Build Status](https://travis-ci.org/gnole/lab04.svg?branch=master)](https://travis-ci.org/gnole/lab04)' -cx README.md
 ```
 Запись изменений в удаленный репозиторий
 ```sh
